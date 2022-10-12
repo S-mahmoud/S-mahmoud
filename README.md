@@ -1,7 +1,6 @@
 Hi there, I am Suheed and currently I am pursuing computer science for my gcses
-the nature and purpose of this profile is to develop and the purpose of this
-profile is to develop and maintain my programming skills I know python but also
-know java and java script but to a lesser extent. 
+the nature and purpose of this profile is to develop and maintain my programming skills. 
+I know python but additionally java and java script but to a lesser extent. 
 
 Surmised, I put fun coding projects here. 
 
